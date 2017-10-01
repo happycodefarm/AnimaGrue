@@ -10,6 +10,24 @@
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
 			<key>Title</key>
+			<string>Target IP</string>
+			<key>Key</key>
+			<string>savedIP</string>
+			<key>DefaultValue</key>
+			<string>192.168.1.4</string>
+			<key>IsSecure</key>
+			<false/>
+			<key>KeyboardType</key>
+			<string>NumbersAndPunctuation</string>
+			<key>AutocapitalizationType</key>
+			<string>None</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
 			<string>Target Port</string>
 			<key>Key</key>
 			<string>savedPort</string>
@@ -28,15 +46,15 @@
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
 			<key>Title</key>
-			<string>Target IP</string>
+			<string>OSC Path</string>
 			<key>Key</key>
-			<string>savedIP</string>
+			<string>savedPath</string>
 			<key>DefaultValue</key>
-			<string>192.168.1.4</string>
+			<string>/grue</string>
 			<key>IsSecure</key>
 			<false/>
 			<key>KeyboardType</key>
-			<string>NumbersAndPunctuation</string>
+			<string>Alphabet</string>
 			<key>AutocapitalizationType</key>
 			<string>None</string>
 			<key>AutocorrectionType</key>
